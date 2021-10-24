@@ -27,6 +27,7 @@ These app allow you to:
 3. Delete Notes.
 4. Search Notes.
 
+This Quick Note making App can help us ensure we never forget a flash of creative inspiration. Writing things down on paper is all well and good, but we find it's very easy to lose our notes that way. But storing our thoughts, ideas and concepts electronically keeps them safe, secure and, best of all, searchable so that we can find them quickly when we need to. 
 
 In short, with note-taking apps, our note-taking has now become simpler and easier.
 
