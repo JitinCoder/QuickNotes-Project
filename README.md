@@ -20,7 +20,7 @@ The purpose of note-taking is to make sure that you are able to capture the esse
 
 Now that we are living in a world where life without technology is unimaginable, our note-taking practice has gone digital. That’s why Digital Note Making is very essential.
 
-These app allow you to:
+This app allow you to:
 
 1. Organize and store all important information and notes digitally on localStorage via JavaScript.
 2. View Notes.
