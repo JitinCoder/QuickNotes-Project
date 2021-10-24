@@ -29,6 +29,6 @@ In short, with note-taking apps, our note-taking has now become simpler and easi
 
 No need to remember everything and rely on your mediocre memory. Jot down important stuff you want to remember in this note-taking app and you are good to go.
 
-Tech Stack Used :-- 1. HTML
-                    2. Bootstrap 5.0
-                    3. Javascript.
+Tech Stack Used :-- 1. HTML <br>
+                    2. Bootstrap 5.0 <br>
+                    3. Javascript. <br>
