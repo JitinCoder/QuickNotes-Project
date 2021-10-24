@@ -2,6 +2,8 @@
 
 <b><i>IT'S NEVER BEEN EASIER TO GET RID OF A PEN AND PAPER.! </i></b>
 
+FRONTEND DESIGN ==>
+
 ![Front End](https://user-images.githubusercontent.com/89959592/138585645-8a2ed1c3-38ac-4161-a14d-76216f755f69.jpg)
 
 
@@ -13,9 +15,9 @@ Note-taking is the practice of writing down or recording information from differ
 
 The purpose of note-taking is to make sure that you are able to capture the essence of a set of information so that you are not burdened with memorizing everything word by word.
 
-Now that we are living in a world where life without technology is unimaginable, our note-taking practice has gone digital. That’s why we not making app is very essential.
+Now that we are living in a world where life without technology is unimaginable, our note-taking practice has gone digital. That’s why Digital Note Making is very essential.
 
-These apps allow you to:
+These app allow you to:
 
 1. Organize and store all important information and notes digitally on localStorage via JavaScript.
 2. View Notes.
